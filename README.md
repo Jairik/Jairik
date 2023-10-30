@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jairik
+- 👋 Hi, I’m @Jairik (You can call me JJ!)
 - 📚 I am currently a second-year student at Salisbury University, Majoring in Computer Science and Data Science
 - 🏅 I am proficient in: C++, Microsoft Excel, and Java
 - 👨‍💻 I have experience with: Python, Linux, and Github
