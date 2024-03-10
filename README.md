@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jairik (You can call me JJ!)
+#👋 What's up, i’m @Jairik (You can call me JJ!)
 - 📚 I am currently a second-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science. I am also a member of the Clarke's Honors College
 - 🏅 I am proficient in: C++, Microsoft Excel, and Java
 - 👨‍💻 I have experience with: Python, Linux, R, and Github
