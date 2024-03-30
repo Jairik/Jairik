@@ -1,5 +1,5 @@
 # 👋 What's up, i’m @Jairik (You can call me JJ!)
-[![Jairik's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jairik&theme=dark)](https://github.com/Jairik)
+[![Jairik's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jairik&theme=dark)](https://github.com/Jairik) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark)
 <!---
 # 🚀 GitHub Stats and Languages
 ![Jairik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairik&show_icons=true&theme=dark)
