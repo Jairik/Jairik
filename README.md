@@ -12,6 +12,7 @@
 - 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP Programming and GUI Implementation, and Intro to R.
 - 🔮 Plan to soon pursue projects on: Android Development, Algorithm Analysis, and Machine Learning.
 - 📫 You can reach me through jmccauley4@gulls.salisbury.edu
+- 💼 [Linked In Profile ](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
 <!---
 Jairik/Jairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
