@@ -9,7 +9,7 @@
 - 📚 Second-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). I am also a member of the Clarke's Honors College.
 - 🏅 Proficient in: C++ and Java.
 - 👨‍💻 Experience with: Python, Linux, R, and Github.
-- 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP Programming and GUI Implementation, and Intro to R.
+- 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP and GUI Implementation, and Intro to R.
 - 🔮 Plan to soon pursue projects on: Android Development and Machine Learning.
 - 📫 You can reach me through jmccauley4@gulls.salisbury.edu
 - 💼 [Linked In Profile ](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
