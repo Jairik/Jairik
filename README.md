@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark)
 --->
 # 🌐 About Me
-- 📚 Second-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College.
+- 📚 Second-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and SU T&F Team.
 - 🏅 Proficient in: C++ and Java.
 - 👨‍💻 Experience with: Python and R.
 - 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP and GUI Implementation, and Intro to R.
