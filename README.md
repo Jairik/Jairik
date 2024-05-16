@@ -10,7 +10,8 @@
 - 🏅 Proficient in: C++ and Java.
 - 👨‍💻 Experience with: Python and R.
 - 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP and GUI Implementation, and Intro to R.
-- 🔮 Plan to soon pursue projects on: Android Development and Machine Learning.
+- 🔮 Plan to soon pursue projects on: Machine Learning.
+- 🎆 Notable projects: Move4Wellness Fitness App
 - 📫 You can reach me through jmccauley4@gulls.salisbury.edu
 - 💼 [Linked In Profile ](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
