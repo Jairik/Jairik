@@ -9,7 +9,7 @@
 - 📚 Second-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and SU T&F Team.
 - 🏅 Proficient in: C++ and Java.
 - 👨‍💻 Experience with: Python and R.
-- 🌱 Currently studying Advanced Data Structures and Algortihm Analysis, OOP and GUI Implementation, and Intro to R.
+- 🌱 Currently studying Machine Learning Techniques & Applications
 - 🔮 Plan to soon pursue projects on: Machine Learning.
 - 🎆 Notable projects: Move4Wellness Fitness App
 - 📫 You can reach me through jmccauley4@gulls.salisbury.edu
