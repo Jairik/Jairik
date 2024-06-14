@@ -10,10 +10,9 @@
 - 🏅 Proficient in: C++ and Java.
 - 👨‍💻 Experience with: Python and R.
 - 🌱 Currently studying Machine Learning Techniques & Applications
-- 🔮 Plan to soon pursue projects on: Machine Learning.
-- 🎆 Notable projects: Move4Wellness Fitness App
-- 📫 You can reach me through jmccauley4@gulls.salisbury.edu
-- 💼 [Linked In Profile ](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
+- 🔮 Current Project(s): ML Stock Analyzer (Private Repo)
+- 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, Battleship (Unfinished)
+- 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
 <!---
 Jairik/Jairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
