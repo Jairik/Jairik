@@ -14,6 +14,7 @@
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
 # 🌐 [Personal Website](https://jjmccauley.com/) 
+Currently live but still in progress
 
 <!---
 Jairik/Jairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
