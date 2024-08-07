@@ -7,7 +7,7 @@
 --->
 # 👨‍💻 About Me
 - 📚 Rising third-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and SU T&F Team.
-- 🏅 Proficient in: C++ and Java. Experience with: Python and R.
+- 🏅 Proficient in: C++ and Java. Experience with: Python, R, and JavaScript.
 - 🌱 Currently studying: Machine Learning Techniques & Applications, Basic Javascript & Web Development Fundementals, and applying Advanced Data Structures & Algorithms
 - 🔮 Current Project(s): ML Stock Analyzer (Private Repo), Personal Portfolio Website (w/ js)
 - 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, Battleship (Unfinished)
