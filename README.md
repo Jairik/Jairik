@@ -10,7 +10,7 @@
 - 🏅 Proficient in: C++, Java, and Python. Experience with: R and JavaScript.
 - 🌱 Currently studying: Data Visualization & Machine Learning, AI, Systems Software
 - 🔮 Current Project(s): Personal Portfolio Website (w/ js)
-- 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, Battleship (Unfinished)
+- 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, Battleship
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
 # 🌐 [Personal Website](https://jjmccauley.com/) 
