@@ -11,6 +11,23 @@
 - 🌱 Currently studying: Data Visualization & Machine Learning, AI, Systems Software 
 - 🔮 Current Project(s): AI Puzzle Game, Personal Portfolio Website
 - 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner)
+- <details>
+  <summary>
+    📓 Completed Relevant Courses
+  </summary>
+  <br>
+  Salisbury University:<br>
+  - Advanced Data Structures & Algorithms (B) <br>
+  - OOP, Design Patterns, & Android Development (B) <br>
+  - Theory of Computation (A) <br>
+  - Microcomputer Organization and Architecture (A) <br>
+  - Linear Algebra (A) <br>
+  - Discrete Mathematics (A + Tutor) <br>
+  - Introduction to Data Structures & Algorithms (B) <br>
+  - Computer Science I (A) <br>
+  - Programming Fundementals (A) <br>
+  <br>
+</details>
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 
 # 🌐 [Personal Website](https://jjmccauley.com/) 
