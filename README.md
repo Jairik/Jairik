@@ -18,15 +18,15 @@
   </summary>
   <br>
   Salisbury University:<br>
-  - Advanced Data Structures & Algorithms (B) <br>
-  - OOP, Design Patterns, & Android Development (B) <br>
-  - Theory of Computation (A) <br>
-  - Microcomputer Organization and Architecture (A) <br>
-  - Linear Algebra (A) <br>
-  - Discrete Mathematics (A + Tutor) <br>
-  - Introduction to Data Structures & Algorithms (B) <br>
-  - Computer Science I (A) <br>
-  - Programming Fundementals (A) <br>
+  - Advanced Data Structures & Algorithms <br>
+  - OOP, Design Patterns, & Android Development <br>
+  - Theory of Computation <br>
+  - Microcomputer Organization and Architecture <br>
+  - Linear Algebra <br>
+  - Discrete Mathematics <br>
+  - Introduction to Data Structures & Algorithms <br>
+  - Computer Science I & II <br>
+  - Programming Fundementals <br>
   <br>
 </details>
 
