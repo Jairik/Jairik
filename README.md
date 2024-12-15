@@ -32,7 +32,7 @@
 
 
 # 🌐 [Personal Website](https://jjmccauley.com/) 
-Currently live but still in progress
+Currently live, however awaiting updates & compatability changes
 
 <!---
 Jairik/Jairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
