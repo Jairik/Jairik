@@ -9,7 +9,7 @@
 - 📚 Third-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
 - 🏅 Proficient in: C++, Java, and Python. Experience with: R, JavaScript, BASH, C.
 - 🌱 Currently studying: Computer Networks, Database Design & Implementatation, Operating Systems, Software Engineering I
-- 🔮 Current Project(s): Computer Vision Chick Counting (partnership w/ Perdue Farms), SU Hackathon ([Website](https://hub.salisbury.edu/hackathon/) & Logistics), SU Faculty Scheduler (Updating Existing Project)
+- 🔮 Current Project(s): Computer Vision Chick Counting (partnership w/ Perdue Farms), SU Hackathon ([Website in progress, currently Dummy Website](https://hub.salisbury.edu/hackathon/) & Logistics), SU Faculty Scheduler (Updating Existing Project)
 - 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), AI Puzzle Game, Battleship Game
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
