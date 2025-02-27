@@ -1,0 +1,208 @@
+%-------------------------
+% Resume in Latex
+% Author of Template : Gabriel Sison
+% Editor: JJ McCauley
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Random Stuff %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.00in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-7pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{0pt}]
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Commands  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubheadingContinue}[2]{
+  \vspace{-3pt}
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{0pt}}
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Heading  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+    \begin{center}
+        % NAME
+        {\Huge\scshape Jairik `JJ' McCauley} 
+        % SUBHEADING
+        \\ Third-year Honors Student Athlete at Salisbury University\\
+        \small
+        % EMAIL
+        \href{mailto:EMAIL}{\raisebox{-0.2\height}\faEnvelope\  \underline{jmccauley4@gulls.salisbury.edu}} ~ 
+        % LINKEDIN
+        \href{LINK}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/jairik-mccauley}}  ~
+        % GITHUB
+        \href{LINK}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/jairik}}
+    \end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Education  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+  \resumeSubHeadingListStart
+  
+    % MAIN INFORMATION
+    \resumeSubheading
+    {Salisbury University}{Salisbury, MD}
+    {Bachelors of Science in Computer Science and Data Science, Minor in Mathematics, 3.81 GPA}{Aug. 2022 - May 2026}
+        % BULLET POINTS
+        \resumeItemListStart
+            \resumeItem{\textbf{Selected Coursework:} Advanced Data Structures \& Algorithms, Data Visualization, Artificial Intelligence, Systems Software, Object-Oriented Design Patterns \& Android Development, Theory of Computation, Linear Algebra, Calculus II, Discrete Mathematics, Statistics with R, Computer Architecture, Fraudsters \& Scammers Seminar (Honors)}
+            \resumeItem{\textbf{Awards/Honors:} Upsilon Pi Epsilon President (Computer Science Honors Society), Computer Science, Math, \& Data Science Club President, Chi Alpha Sigma Inductee (Athletics Honors Society), Clarke Honors Student, 5x Dean's List, 2x CSC Academic All-District Team, NCSM Excellence in Mathematics}
+        \resumeItemListEnd
+        
+  \resumeSubHeadingListEnd
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Experience  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+    \resumeSubHeadingListStart
+    
+        % COMPANY 1
+        \resumeSubheading
+        {Salisbury University}{Salisbury, MD}
+            % POSITION 1
+            {Resident Assistant}{Aug. 2023 - Present}
+            \resumeItemListStart
+                \resumeItem{Won the Best Community Builder award by actively  mentoring and building healthy relationships with nearly 50 residents from various different backgrounds}
+                \resumeItem{Took initiative to plan over 8 programs/events and communicated with coworkers and other staff to ensure residents' safety, adherence to campus policies, and a welcoming building environment}
+                \resumeItem{Frequently handled incidents that required fast decision making and collaboration with coworkers and law enforcement}
+            \resumeItemListEnd
+            
+            % POSITION 3
+            \resumeSubheadingContinue
+            {Computer Science Lab Assistant}{Aug. 2024 - Present}
+            \resumeItemListStart
+                \resumeItem{Currently aiding third/fourth year students in understanding advanced low-level concepts on the Linux OS, such as Inter-Process Communication (IPC), Signals, Multithreading using POSIX threads, and concurrent programming}
+                \resumeItem{Aided first year computer science students in learning and understanding core concepts such as control structures, arrays, and modular programming, emphasizing software engineering principles such as documentation, debugging, and testing}
+            \resumeItemListEnd
+
+            % POSITION 2
+            \resumeSubheadingContinue
+            {Discrete Mathematics Student Instructor}{Jan. 2023 - May 2023}
+            \resumeItemListStart
+                \resumeItem{Facilitated fundamental mathematical knowledge such as Set Theory, Graph Theory, Combinatorics, and Proof Techniques to over 15 students, tailoring plans to student's needs to ensure course success}
+                %\resumeItem{Collaborated with professional staff in order to construct appropriate meeting plans, meet deadlines, and further my understanding of Discrete Mathematics}
+            \resumeItemListEnd
+
+        % COMPANY 2
+        \resumeSubheading
+        {Martin's Grocery}{Hagerstown, MD}
+            % POSITION 1
+            {Front-End Associate}{June 2021 - Aug. 2024}
+            \resumeItemListStart
+                \resumeItem{Adapted to over 5 roles within the store, effectively collaborating with team members across multiple departments}
+                \resumeItem{Processed transactions, learned various systems, and dependably enhanced customer satisfaction}
+            \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  PROJECTS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Personal Projects} 
+    \resumeSubHeadingListStart
+
+        % Project 1
+        \resumeProjectHeading
+        {Testif.AI -\href{https://github.com/SpencerPresley/UMBC-2024-Hackathon}{\raisebox{-0.2\height}\ \underline{github.com/SpencerPresley/UMBC-2024-Hackathon}}}
+        % Date
+        {September 2024}
+        \resumeItemListStart
+            \resumeItem{Recognized as the 'Best Educational Hack' at the 2024 UMBC Hackathon, \textit{Testif.AI} is a full-stack application that leverages advanced AI to generate tests from user provided source material. The front-end was designed using HTML, CSS, and JavaScript, while the back-end utilized Langchain, Python, and OpenAI.} % Brief
+        \resumeItemListEnd
+
+        % Project 1
+        \resumeProjectHeading
+        {Android Fitness App -\href{https://github.com/Jairik/MOVE4WELLNESS-Android-App}{\raisebox{-0.2\height}\ \underline{github.com/Jairik/MOVE4WELLNESS-Android-App}}}
+        % Date
+        {May 2024}
+        \resumeItemListStart
+            \resumeItem{Collaborated with a peer to develop a mock-up fitness app for a client at Salisbury University, with core processes slated for production use. Designed and implemented the login system, GUI, and database using Firebase Database, Android Studio, and Java.}
+        \resumeItemListEnd
+
+        % Project 3
+        \resumeProjectHeading
+        {Basic Portfolio Website -\href{https://github.com/Jairik/Portfolio-Website}{\raisebox{-0.2\height}\ \underline{github.com/Jairik/Portfolio-Website}}}
+        % Date
+        {June 2024}
+        \resumeItemListStart
+            \resumeItem{Developed a simple website with 3d models using HTML, CSS, and JavaScript with the Three.js library and Vue framework.} % Brief, just to show I do stuff in my free time
+        \resumeItemListEnd
+        
+        
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Technical Skills  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Technical Skills}
+
+    \vspace{-7pt}
+    \begin{itemize}
+    [leftmargin=0.15in, label={}]\small{\item{
+        % LANGUAGES
+        \textbf{Languages}{: Python, C, C++, Java, R, JavaScript} \\
+        % TOOLS
+        \textbf{Developer Tools}{: Git/Github, Ubuntu/Debian Linux (Terminal, Scripting, File System), Figma, VIM, VSCode, R-Studio, Android Studio, Jupyter Notebook, LaTeX, Wordpress} \\
+        % TECHNOLOGIES
+        \textbf{Technologies/Frameworks}{: Firebase, Firestore, ScikitLearn, PyQT5, OpenAI API, FastAPI} \\ 
+        % Concepts
+        %\textbf{Concepts}{: Data Structures and Algorithms, Data Visualization, Machine Learning, Object-Oriented Programming, GUI Design, Android App Development, General AI, Systems Software, Basic Website Development, Prompt Engineering, LLM Chaining, Document Loaders} \\}}
+    \end{itemize}
+ 
+\end{document}
