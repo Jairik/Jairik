@@ -10,7 +10,7 @@
 - 🏅 Proficient in: C++, Java, and Python. Experience with: R, JavaScript, BASH, C.
 - 🌱 Currently studying: Computer Networks, Database Design & Implementatation, Operating Systems, Software Engineering I
 - 🔮 Current Project(s): Computer Vision Chick Counting (in conjunction w/ Perdue Farms), SU Hackathon ([Website in progress](https://hub.salisbury.edu/hackathon/) & Logistics), SU Faculty Scheduler (Updating Existing Project), SQL/PHP Stock Portfolio Website, Console messaging system with End-to-end encryption
-- 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), AI Puzzle Game, Battleship Game. ICMP Pinger Application
+- 🎆 Past projects: Move4Wellness Fitness App, Casino Console Game, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), AI Puzzle Game, Battleship Game, ICMP Pinger
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
   <summary>
