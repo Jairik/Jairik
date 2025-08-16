@@ -1,0 +1,234 @@
+%-------------------------
+% Resume in Latex
+% Author of Template : Gabriel Sison
+% Editor: JJ McCauley
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Imports and whatnot %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.00in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+% Sections formatting
+\titleformat{\section}
+  {\scshape\raggedright\large\bfseries}{}{0em}{}[\color{black}\titlerule]
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+\setlist[itemize]{itemsep=1pt, topsep=2pt}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Commands  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+\newcommand{\resumeSubheadingContinue}[2]{
+  \vspace{-3pt}
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-5pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{0pt}}
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+\newcommand{\inlinecenter}[1]{\noindent\makebox[\textwidth][c]{#1}}
+% Override some section/subsection spacing
+\titlespacing*{\section}{1pt}{7pt plus 1pt minus 1pt}{6pt}
+\titlespacing*{\subsection}{0pt}{5pt plus 1pt minus 1pt}{3pt}
+% Very light line compression
+\linespread{0.97}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Heading  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+    \begin{center}
+        % NAME
+        {\Huge\scshape Jairik `JJ' McCauley} 
+        % SUBHEADING
+        \\ Full-Stack Software Engineer \textbar\ Honors CS \& Data Science Student\\
+        \small
+        % EMAIL
+        \href{mailto:EMAIL}{\raisebox{-0.2\height}\faEnvelope\  \underline{mjairik@gmail.com}} ~ 
+        % LINKEDIN
+        \href{https://www.linkedin.com/in/jairik-mccauley}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/jairik-mccauley}}  ~
+        % GITHUB
+        \href{https://github.com/jairik}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/jairik}}
+    \end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Education  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+  \resumeSubHeadingListStart
+  
+    % MAIN INFORMATION
+    \resumeSubheading
+    {Salisbury University}{Salisbury, MD}
+    {Bachelors of Science in Computer Science and Data Science, Minor in Mathematics, 3.81 GPA}{Aug. 2022 - May 2026}
+        % BULLET POINTS
+        \resumeItemListStart
+            % Tracks & Overall Academic Interests
+            \resumeItem{\textbf{Academic Interests/Focus:} 
+            Full-Stack Software Engineering, Artificial Intelligence, and general computer science}
+            % Awards, Societies, and whatnot 
+            \resumeItem{\textbf{Awards/Honors/Leadership:} Upsilon Pi Epsilon President, Pi Mu Epsilon Inductee, Chi Alpha Sigma Inductee, Computer Science, Math, \& Data Science Club President, CSC Academic All-District Team}
+        \resumeItemListEnd
+        
+  \resumeSubHeadingListEnd
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Experience  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+    \resumeSubHeadingListStart
+
+        % Internship
+        \resumeSubheading
+        {Booz Allen}{Annapolis Junction, MD}
+        % BAH Summer Games Internship
+        {Summer Games Intern - Full-Stack Software Engineer}{Jun. 2025 - Aug. 2025}
+        \resumeItemListStart
+            \resumeItem{Collaborated with two teammates to deliver a first-to-market, real-time cyber-physical analytics dashboard for a federal client, ingesting, processing, and visualizing live network activity from multiple ZeroTier-connected systems via an Elastic Stack pipeline; filtered over 99.9\% of irrelevant incoming traffic to enhance non-technical clarity and drastically reduce analyst review time}
+            \resumeItem{Built a responsive React interface with D3-driven visualizations, simplifying data traffic with intuitive animations}
+            \resumeItem{Implemented a data delivery layer by streaming real-time events via WebSockets and deployed optimized Express REST APIs backed by Redis, enabling rapid configuration and millisecond-level retrieval of live and historical data}
+            \resumeItem{Prepared the application for production deployment by implementing Nginx reverse proxy for secure request handling, systemd service management for persistent uptime, and custom deployment scripts for cross-platform configuration}
+            \resumeItem{Presented the dashboard to a senior military general, receiving enthusiastic approval for performance and usability, securing support for near-term market release}
+        \resumeItemListEnd
+        \vspace{0\baselineskip} % This makes it space correctly for some reason
+        
+        % Salisbury Related Positions
+        \resumeSubheading
+        {Salisbury University}{Salisbury, MD}
+            % POSITION 1
+            {Computer Science Department Tutor \& Lab Assistant}{Aug. 2024 - Present}
+                \resumeItemListStart
+                    \resumeItem{Provided conceptual and technical guidance to all levels of Salisbury University’s Computer Science Department, covering a broad range of topics such as Software Engineering principles, Artificial Intelligence techniques, and Cybersecurity fundamentals, adapting explanations to each student’s course level and learning style}
+                    \resumeItem{Specialize in assisting advanced third and fourth-year students with low-level Linux systems programming, including Inter-Process Communication (IPC), signal handling, multithreading, and concurrent programming concepts}
+                    \resumeItem{Specialize in assisting first and second-year students through foundational CS topics such as control/data structures, modular programming, sorting/search algorithms, and algorithm complexity in Java and C++}
+                \resumeItemListEnd
+
+            % POSITION 3
+            \resumeSubheadingContinue
+            {Resident Assistant}{Aug. 2023 - May 2025}
+            \resumeItemListStart
+                \resumeItem{Mentored 300+ diverse residents, fostering an inclusive community and earning SU’s Best Community Builder award}
+                \resumeItem{Led 10+ programs and ensured safety through incident response and coordination with staff and law enforcement}
+            \resumeItemListEnd
+
+         \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  PROJECTS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Personal Projects} 
+    \resumeSubHeadingListStart
+
+        % Project 1 - TESTIFAI
+        \resumeProjectHeading
+        {Testif.AI -\href{https://github.com/SpencerPresley/UMBC-2024-Hackathon}{\raisebox{-0.2\height}\ \underline{github.com/SpencerPresley/UMBC-2024-Hackathon}}}
+        % Date
+        {September 2024}
+        \resumeItemListStart
+            \resumeItem{Won 'Best Educational Hack' at the 2024 UMBC Hackathon with \textit{Testif.AI}, a full-stack web application that leverages advanced AI to automatically generate quizzes and tests from user-provided study materials}
+            \resumeItem{Engineered a responsive frontend using HTML, CSS, and JavaScript to enable intuitive user interaction}
+            \resumeItem{Developed a robust FastAPI-based backend with LangChain, Python, and the OpenAI API, exposing RESTful endpoints to process user inputs and deliver generated assessments dynamically}
+
+        \resumeItemListEnd
+
+        % Project 2 - MOVE4WELLNESS
+        \resumeProjectHeading
+        {Android Fitness App -\href{https://github.com/Jairik/MOVE4WELLNESS-Android-App}{\raisebox{-0.2\height}\ \underline{github.com/Jairik/MOVE4WELLNESS-Android-App}}}
+        % Date
+        {May 2024}
+        \resumeItemListStart
+            \resumeItem{Built a fitness app prototype for Salisbury University’s 'Move4Wellness' initiative, focusing on student wellness and digital engagement in collaboration with a peer developer} 
+            \resumeItem{Designed and implemented the authentication system, GUI, and NoSQL database with Java and Firebase Cloud}
+        \resumeItemListEnd
+
+        % Project 3 - SPMS
+        \resumeProjectHeading
+        {Stock Portfolio Management System}
+        % {Stock Portfolio Management System -\href{https://github.com/Jairik/SPMS}{\raisebox{-0.2\height}\ \underline{github.com/Jairik/SPMS}}}
+        % Date
+        {May 2025}
+        \resumeItemListStart
+            \resumeItem{Developed a web-based Stock Portfolio Management app for investors to track holdings and manage transactions}
+            \resumeItem{Built core system architecture using PHP and MySQL, integrated real-time financial data from external APIs, implemented role-based access, and visualized analytics via Chart.js and an interactive AJAX frontend}
+        \resumeItemListEnd
+
+        % Other Notable Projects - Smaller, hyperlinked text
+        %\vspace{4pt}
+        \vspace{-2pt}
+        {\footnotesize
+            %\centerline
+            {
+            \textbf{Other Notable Projects: }%
+                \href{https://github.com/Jairik/Secure-P2P-Chatroom}{Encrypted Chatroom} \textbar 
+                \href{https://github.com/Jairik/AI-Puzzle-Game}{ AI Puzzle Game} \textbar 
+                \href{https://github.com/Jairik/Portfolio-Website}{ Portfolio Website} \textbar 
+                \href{https://github.com/Jairik/Sort-Analysis}{ Algorithm Performance Benchmark}%
+            }
+        }
+        \vspace{-2pt}
+        
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Technical Skills  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Technical Skills}
+
+    \begin{itemize}
+    [leftmargin=0.15in, label={}]\small{\item{
+        % LANGUAGES
+        \textbf{Languages:}{ Python, JavaScript/TypeScript, C/C++, Java, SQL, Bash, PHP, R, HTML \& CSS} \\
+        % Frameworks
+        \textbf{Frameworks:}{ React, Express, FastAPI, Tailwind, Bootstrap, D3.js } \\
+        % Databases
+        \textbf{Databases:}{ MySQL, Redis, Firebase Cloud Firestore } \\
+        % TOOLS
+        \textbf{Tools:}{ Git/GitHub, Linux, Agile/Scrum, Vite, LaTeX, Virtual Machines, WordPress} \\
+        % Cloud/Other
+        \textbf{Cloud/Other:}{ Firebase, OpenAI API, TensorFlow, Elastic Stack (ELK), WebSockets, PyCA Cryptography } \\ }}
+    \end{itemize}
+ 
+\end{document}
