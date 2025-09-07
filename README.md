@@ -8,7 +8,7 @@
 --->
 # 👨‍💻 About Me
 - 📚 Third-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
-- 🏅 Proficient in: C++, C, Java, and Python. Experience with: R, JavaScript/HTML/CSS, BASH, PHP, SQL, and Wordpress.
+- 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript and Python. Experience with: R, BASH, PHP, SQL, and Wordpress.
 - 🌱 Currently studying: Computer Networks, Database Design & Implementatation, Operating Systems, Software Engineering I
 - 🔮 Current Project(s): Computer Vision Chick Counting (in conjunction w/ Perdue Farms), SU Hackathon ([Website](https://salisbury.edu/hackathon/) & Logistics), React Website for Client
 - 🎆 Past projects: Move4Wellness Fitness App, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), SQL Stock Portfolio Management Website, Console messaging system with End-to-end encryption, AI Puzzle Game, ICMP Pinger, Casino Console Game
