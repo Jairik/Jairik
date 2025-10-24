@@ -39,7 +39,7 @@
 - 📚 Third-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
 - 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, BASH, PHP, SQL, and Wordpress.
 - 🌱 Currently studying: High Performance Computing, Software Engineering II, Research Methods in Data Science
-- 🔮 Current Project(s): Computer Vision Chick Counting (in conjunction w/ Perdue Farms), High Performance Cluster Setup
+- 🔮 Current Project(s): Computer Vision Chick Counting (in conjunction w/ Perdue Farms), Portfolio Website (Redoing)
 - 🎆 Past projects: Move4Wellness Fitness App, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), SQL Stock Portfolio Management Website, Encrypted Chatroom, AI Puzzle Game, ICMP Pinger, Casino Console Game
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
