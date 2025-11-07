@@ -36,7 +36,7 @@
 <!--![Jairik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairik&show_icons=true&theme=dark)-->
 
 # 👨‍💻 About Me
-- 📚 Third-year student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
+- 📚 Senior student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
 - 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, BASH, PHP, SQL, and Wordpress.
 - 🌱 Currently studying: High Performance Computing, Software Engineering II, Research Methods in Data Science
 - 🔮 Current Project(s): Computer Vision Chick Counting (in conjunction w/ Perdue Farms), Portfolio Website (Redoing)
