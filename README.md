@@ -6,28 +6,53 @@
 
 <!-- Inline HTML for GitHub Profile Stats -->
 <div align="center">
-  <table border="0" style="border: none; outline: none;">
+
+  <!-- Top row: Streak + Top Languages -->
+  <table>
     <tr>
-      <td align="center" style="border:none;">
+      <td>
         <a href="https://git.io/streak-stats">
           <img
-            alt="JJ's GitHub Streak"
             src="https://github-readme-streak-stats-eight.vercel.app?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1"
+            alt="JJ's GitHub Streak"
           />
-         <!-- If the image above still shows broken, replace the src with the line below -->
-        <!-- src="[https://github-readme-streak-stats-eight.vercel.app?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1)"
-         -->
         </a>
       </td>
-      <td align="center">
+      <td>
         <img
-          alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook&v=1"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&v=1"
+          alt="JJ's Top Languages"
         />
       </td>
     </tr>
   </table>
+
+  <!-- Dropdown: More Stats -->
+  <details>
+    <summary><b>📊 More Stats</b></summary>
+    <br />
+    <table>
+      <tr>
+        <td>
+          <!-- Overall GitHub stats card -->
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=Jairik&show_icons=true&theme=tokyonight&hide_border=true"
+            alt="JJ's GitHub Stats"
+          />
+        </td>
+        <td>
+          <!-- Productive time / active hours card -->
+          <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight&utcOffset=-5"
+            alt="JJ's Commit Productive Time"
+          />
+        </td>
+      </tr>
+    </table>
+  </details>
+
 </div>
+
 
 
 <!---   
