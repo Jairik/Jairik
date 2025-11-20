@@ -22,7 +22,7 @@
       <td align="center">
         <img
           alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=tokyonight&hide_border=true&v=1"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook&v=1"
         />
       </td>
     </tr>
