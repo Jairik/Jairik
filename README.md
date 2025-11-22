@@ -30,7 +30,6 @@
   <!-- Dropdown: More Stats -->
   <details>
     <summary><b>📊 More Stats</b></summary>
-    <br />
     <table>
       <tr>
         <td>
@@ -45,6 +44,15 @@
           <img
             src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight&utcOffset=-5"
             alt="JJ's Commit Productive Time"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <!-- Profile details summary card (under the two stats above) -->
+          <img
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jairik&theme=tokyonight"
+            alt="JJ's GitHub Profile Details"
           />
         </td>
       </tr>
