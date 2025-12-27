@@ -71,7 +71,7 @@
 # 👨‍💻 About Me
 - 📚 Senior student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
 - 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, Go, BASH, PHP, SQL, and Wordpress.
-- 🔮 Current Project(s): Rutgers Health Hacks Continuation, SU Tutor & Lab Assistant Office Hours
+- 🔮 Current Project(s): Rutgers Health Hacks Continuation, SU Tutor & Lab Assistant Office Hours, System Design Stuff
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
   <summary>
