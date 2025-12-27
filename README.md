@@ -70,10 +70,8 @@
 
 # 👨‍💻 About Me
 - 📚 Senior student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
-- 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, BASH, PHP, SQL, and Wordpress.
-- 🌱 Currently studying: High Performance Computing, Software Engineering II, Research Methods in Data Science
-- 🔮 Current Project(s): Computer Vision Chick Counting (for poultry plants), Portfolio Website (Redoing), Parallel Query Processing System, Capymorph (Morphology-based game using Phaser.js and React) 
-- 🎆 Past projects: Move4Wellness Fitness App, TestIfAI (2024 UMBC Hackathon Categorical & 2nd place Winner), Lunara (2025 RU HealthHacks 1st place Winner), SQL Stock Portfolio Management Website, Encrypted Chatroom, AI Puzzle Game, ICMP Pinger, Casino Console Game
+- 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, Go, BASH, PHP, SQL, and Wordpress.
+- 🔮 Current Project(s): , Portfolio Website (Redoing), 
 - 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
   <summary>
@@ -81,7 +79,9 @@
   </summary>
   <br>
   Salisbury University:<br>
-  - Software Engineering I <br>
+  - Software Engineering I & II <br>
+  - High-Performance Computing <br>
+  - Data Science Fundamentals <br>
   - Computer Networks <br>
   - Database Design & Implementation <br>
   - Operating Systems <br>
@@ -100,11 +100,9 @@
   <br>
 </details>
 
+# 🌐 [Portfolio Website](https://jjmccauley.com/) 
+See all of my projects!
 
-<!--- 
-# 🌐 [Personal Website](https://jjmccauley.com/) 
-Currently live, still in development
---->
 
 <!---
 Jairik/Jairik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
