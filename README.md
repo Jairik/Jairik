@@ -1,5 +1,5 @@
 # 👋 What's up, i’m @Jairik (You can call me JJ!)
-<!-- [![Jairik's GitHub Commit Streak](https://streak-stats.demolab.com?user=Jairik&theme=dark&hide_border=true&date_format=M%20j)](https://github.com/Jairik)
+<!-- [![Jairik's GitHub Commit Streak](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j)](https://github.com/Jairik)
 [![JJ's GitHub Streak](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j)](https://git.io/streak-stats)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight)
 -->
@@ -19,10 +19,10 @@
         </a>
       </td>
       <td>
-        <!-- Language card from same provider/theme for a consistent look -->
+        <!-- Swapped in overall stats card per requested layout -->
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jairik&theme=tokyonight"
-          alt="JJ's Top Languages"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jairik&theme=tokyonight&title_color=70a5fd"
+          alt="JJ's GitHub Stats"
         />
       </td>
     </tr>
@@ -34,26 +34,26 @@
     <table>
       <tr>
         <td>
-          <!-- Overall GitHub stats card (stable endpoint) -->
+          <!-- Commit-based language breakdown card -->
           <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jairik&theme=tokyonight"
-            alt="JJ's GitHub Stats"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jairik&theme=tokyonight&title_color=70a5fd"
+            alt="JJ's Top Languages"
           />
         </td>
         <td>
           <!-- Productive time / active hours card -->
           <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight&title_color=70a5fd"
             alt="JJ's Commit Productive Time"
           />
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <!-- Replaced profile-details (served as text/html) with image-safe language breakdown -->
+          <!-- Extra stat: contribution activity graph in matching Tokyo Night theme -->
           <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight"
-            alt="JJ's Top Languages by Repo"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=Jairik&theme=tokyo-night&hide_border=true"
+            alt="JJ's GitHub Contribution Activity Graph"
           />
         </td>
       </tr>
