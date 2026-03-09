@@ -1,7 +1,7 @@
 # 👋 What's up, i’m @Jairik (You can call me JJ!)
-<!-- [![Jairik's GitHub Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jairik&theme=dark&cache_bust=1&date_format=M%20j%5B,%20Y%5D&timezone=America/New_York&token=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)](https://github.com/Jairik) 
-[![JJ's GitHub Streak](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j)](https://git.io/streak-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=dark)
+<!-- [![Jairik's GitHub Commit Streak](https://streak-stats.demolab.com?user=Jairik&theme=dark&hide_border=true&date_format=M%20j)](https://github.com/Jairik)
+[![JJ's GitHub Streak](https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j)](https://git.io/streak-stats)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight)
 -->
 
 <!-- Inline HTML for GitHub Profile Stats -->
@@ -13,14 +13,15 @@
       <td>
         <a href="https://git.io/streak-stats">
           <img
-            src="https://github-readme-streak-stats-eight.vercel.app?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j&card_width=400&v=2025-10-14-1"
+            src="https://streak-stats.demolab.com?user=Jairik&theme=tokyonight&hide_border=true&date_format=M%20j"
             alt="JJ's GitHub Streak"
           />
         </a>
       </td>
       <td>
+        <!-- Language card switched to profile-summary-cards for better uptime -->
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jairik&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&v=1"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight"
           alt="JJ's Top Languages"
         />
       </td>
@@ -33,9 +34,9 @@
     <table>
       <tr>
         <td>
-          <!-- Overall GitHub stats card -->
+          <!-- Overall GitHub stats card (stable endpoint) -->
           <img
-            src="https://github-readme-stats.vercel.app/api?username=Jairik&show_icons=true&theme=tokyonight&hide_border=true"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jairik&theme=tokyonight"
             alt="JJ's GitHub Stats"
           />
         </td>
@@ -66,7 +67,7 @@
 <!---   
 # 🚀 GitHub Stats and Languages
 --->
-<!--![Jairik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jairik&show_icons=true&theme=dark)-->
+<!--![Jairik's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jairik&theme=tokyonight)-->
 
 # 👨‍💻 About Me
 - 📚 Senior student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
