@@ -19,9 +19,9 @@
         </a>
       </td>
       <td>
-        <!-- Language card switched to profile-summary-cards for better uptime -->
+        <!-- Language card from same provider/theme for a consistent look -->
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jairik&theme=tokyonight"
           alt="JJ's Top Languages"
         />
       </td>
@@ -43,17 +43,17 @@
         <td>
           <!-- Productive time / active hours card -->
           <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight&utcOffset=-5"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jairik&theme=tokyonight"
             alt="JJ's Commit Productive Time"
           />
         </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
-          <!-- Profile details summary card (under the two stats above) -->
+          <!-- Replaced profile-details (served as text/html) with image-safe language breakdown -->
           <img
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jairik&theme=tokyonight"
-            alt="JJ's GitHub Profile Details"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jairik&theme=tokyonight"
+            alt="JJ's Top Languages by Repo"
           />
         </td>
       </tr>
@@ -72,8 +72,8 @@
 # 👨‍💻 About Me
 - 📚 Senior student at Salisbury University, Majoring in Computer Science (AI & Software Engineering Track) and Data Science (Computational Data Track). Also a member of the Clarke's Honors College and on the SU T&F Team.
 - 🏅 Proficient in: C++, C, Java, JavaScript/TypeScript, and Python. Experience with: R, Go, BASH, PHP, SQL, and Wordpress.
-- 🔮 Current Project(s): Rutgers Health Hacks Continuation, SU Tutor & Lab Assistant Office Hours, System Design Stuff
-- 💼 You can reach me through jmccauley4@gulls.salisbury.edu or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
+- 🔮 Current Project(s): Shakespearean Augmented LLM, Poultry Farm Litter Quality Metrics
+- 💼 You can reach me through mjairik@gmail.com or my [Linked In Profile](https://www.linkedin.com/in/jairik-mccauley-02624124a/)
 - <details>
   <summary>
     📓 Completed Relevant Courses
